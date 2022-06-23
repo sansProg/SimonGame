@@ -6,19 +6,19 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  10% 2% 8%;
+  margin:  9% 2% 8%;
   color: #FEF2BF;
 }
 .startbtn{
 
   border-radius: 50%;
   display: none;
-  background-color: #021120;
+  background-color: #01152b;
   color: #FEF2BF;
   font-family: 'Press Start 2P', cursive;
   font-size: 1.2rem;
   padding: 3rem;
-  margin: 10% auto 2%;
+  margin: 10% auto 0;
   
 }
 .blockDisplay{
